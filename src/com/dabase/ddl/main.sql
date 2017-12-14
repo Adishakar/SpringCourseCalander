@@ -1,4 +1,4 @@
-use test;
+
 select * from person;
 drop table person;
 explain course;
